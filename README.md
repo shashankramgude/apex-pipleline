@@ -1,4 +1,4 @@
-# apex-pipleline
+# apex-pipleline - Simulator for Instruction pipeline
 Author: Shashank Ramgude
 Steps to run program, in terminal type
 make
